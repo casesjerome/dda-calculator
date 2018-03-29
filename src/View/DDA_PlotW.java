@@ -17,7 +17,7 @@
  */
 package View;
 
-import Logic.DDA_Action;
+import Controller.DDA_Action;
 import Model.DDA_Bean;
 import java.awt.BasicStroke;
 import java.awt.Color;

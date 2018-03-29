@@ -19,7 +19,7 @@
 package View;
 
 import Model.DDA_Bean;
-import Logic.DDA_Action;
+import Controller.DDA_Action;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Toolkit;
